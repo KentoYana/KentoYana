@@ -1,5 +1,3 @@
-# Kento Yanagisawa
-
 **Turning problems in science, infrastructure, and computing into practical tools.**  
 **科学・インフラ・コンピューティングの課題を、実用的な道具へ。**
 
