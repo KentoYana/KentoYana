@@ -1,7 +1,7 @@
 **Turning problems in science, infrastructure, and computing into practical tools.**  
 **科学・インフラ・コンピューティングの課題を、実用的な道具へ。**
 
-I work across fungal genetics and Linux-based infrastructure operations.
+My work spans fungal genetics and Linux-based infrastructure operations.
 My research uses *Neurospora crassa* to study genome stability,
 DNA damage responses, mutagenesis, and chromatin regulation.
 
