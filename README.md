@@ -39,8 +39,8 @@ my responsibility.
 
 ---
 
-*The projects and opinions shared here are personal and do not represent
-my employer.*
+The projects and opinions shared here are personal and do not represent
+my employer.
 
-*ここで公開しているプロジェクトおよび見解は個人のものであり、
-勤務先を代表するものではありません。*
+ここで公開しているプロジェクトおよび見解は個人のものであり、
+勤務先を代表するものではありません。
